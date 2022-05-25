@@ -1,7 +1,8 @@
 # jupyterlab_mainmenu_example
 
-[![Github Actions Status](https://github.com/github_username/jupyterlab_mainmenu_example/workflows/Build/badge.svg)](https://github.com/github_username/jupyterlab_mainmenu_example/actions/workflows/build.yml)
-JupyterLab main menu example
+[![Github Actions Status](https://github.com/stphnlyd/jupyterlab_mainmenu_example/workflows/Build/badge.svg)](https://github.com/stphnlyd/jupyterlab_mainmenu_example/actions/workflows/build.yml)
+
+JupyterLab 3.0 style main menu example (JupyterLab >=3.1 allows `schema/plugin.json` style menu definition. We don't use that feature.)
 
 ## Requirements
 
